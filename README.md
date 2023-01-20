@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+#Rawr
+Changes dragon special attack to Rawr XD following idyl's tutorial
